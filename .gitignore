@@ -1,0 +1,8 @@
+output/*
+output_old/*
+*.zip
+*.tar.xz
+*.pdf
+*.png
+.vscode
+*.code-workspace
