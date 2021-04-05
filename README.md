@@ -1,3 +1,5 @@
+https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(21)00057-8/fulltext#seccestitle80
+
 This repo contains the code for the paper "Prioritising COVID-19 vaccination in changing social and epidemiological landscapes"
 by Peter C. Jentsch, Madhur Anand, Chris T Bauch
 
